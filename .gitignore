@@ -8,6 +8,8 @@ data/
 lightning_logs/
 logs/
 
+*.ckpt
+
 # Virtual environment
 venv/
 env/
