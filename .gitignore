@@ -5,8 +5,8 @@ __pycache__/
 
 # Data files
 data/
+lightning_logs/
 logs/
-models/
 
 # Virtual environment
 venv/
